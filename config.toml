@@ -86,26 +86,25 @@ enableEmoji = true
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
-  [[params.social]]
       icon      = "google-scholar"
       icon_pack = "ai"
-      link      = "https://scholar.google.co.id/citations?user=0lWYoUIAAAAJ&hl=en"
+      url       = "https://scholar.google.com/citations?user=0lWYoUIAAAAJ&hl=id"
+  [[params.social]]
+      icon      = "github" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://github.com/rameliaz"
+  [[params.social]]      
+      icon      = "envelope"
+      icon_pack = "far"
+      url       = "mailto:Amelia.Zein@psy.lmu.de"
   [[params.social]]
       icon      = "cv"
       icon_pack = "ai"
-      link      = "/files/cv.pdf"
+      url       = "https://rameliaz.github.io/files/cv.pdf"
   [[params.social]]
       icon      = "calendar-check"
       icon_pack = "far"
       url       = "https://calendly.com/ameliazein/calendar"
-  [[params.social]]      
-      icon      = "envelope"
-      icon_pack = "fas"
-      link      = "mailto:Amelia.Zein@psy.lmu.de"
-
 
 [taxonomies]
   category = "categories"
@@ -115,25 +114,26 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "Contact"
-    title = "How to reach me"
-    url = "/contact/"
-    weight = 1
-  [[menu.header]]
     name = "Blog"
     title = "Blog"
     url = "https://medium.com/@ameliazein"
-    weight = 2
+    weight = 1
   [[menu.header]]
     name = "Talks"
     title = "Talks"
     url = "/talk/"
-    weight = 4
+    weight = 2
   [[menu.header]]
     name = "CV"
     title = "CV"
     url = "/files/cv.pdf"
-    weight = 6
+    weight = 3  
+  [[menu.header]]
+    name = "Contact"
+    title = "How to reach me"
+    url = "/contact/"
+    weight = 4
+
     
   # Configure footer  
   [[menu.footer]]
