@@ -19,7 +19,7 @@ links:
 - icon: file-powerpoint
   icon_pack: far
   name: download the slides
-  url: https://rameliaz.github.io/files/
+  url: https://rameliaz.github.io/files/PPIJ_08.07.2023.pptx
 - icon: youtube
   icon_pack: fab
   name: watch on YouTube

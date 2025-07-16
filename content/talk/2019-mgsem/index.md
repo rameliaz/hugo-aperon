@@ -30,4 +30,4 @@ links:
   url: https://github.com/rameliaz/mg-sem-workshop
 ---
 
-This workshop is a part of the events organised by Department of Personality and Social Pscyhology to commemorate the 36th Anniversary of Faculty of Psychology Universitas Airlangga. 
+This workshop is a part of the events organized by Department of Personality and Social Psychology to commemorate the 36th Anniversary of Faculty of Psychology Universitas Airlangga. 

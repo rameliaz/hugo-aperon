@@ -19,13 +19,13 @@ links:
 - icon: globe
   icon_pack: fas
   name: visit the website
-  url: https://rameliaz.github.io/lvm-cfa/index.html
+  url: https://rameliaz.github.io/mlm-lme-workshop/
 - icon: github
   icon_pack: fab
   name: Code
-  url: https://github.com/rameliaz/lvm-cfa?tab=readme-ov-file
+  url: https://github.com/rameliaz/mlm-lme-workshop
 ---
 
-Berikut adalah repositori yang digunakan untuk menyimpan semua materi untuk Workshop Confirmatory Factor Analysis yang diselenggarakan oleh Fakultas Psikologi, Universitas Negeri Semarang.
+Berikut adalah repositori yang digunakan untuk menyimpan semua materi untuk Workshop Linear Mixed Model yang diselenggarakan oleh Fakultas Psikologi, Universitas Airlangga dan Universitas Negeri Semarang.
 
 Materi berlisensi [*Creative Commons* BY 4.0](https://creativecommons.org/licenses/by/4.0/). **Materi bebas digunakan kembali namun wajib mengatribusi sumber aslinya**.

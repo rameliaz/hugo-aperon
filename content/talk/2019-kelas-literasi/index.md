@@ -34,4 +34,4 @@ links:
   url: https://github.com/rameliaz/kelas-literasi/blob/master/kelas-literasi.Rmd
 ---
 
-Materi ini adalah bagian dari Kelas Literasi yang diselenggarakan oleh Klub Seri Buku. Untuk mengunduh materi presentasi yang siap diunduh dan *readable*, klik opsi `pdf`. Untuk mengakses *slide* dalam format `html` silahkan klik `slides`. Untuk mengakses kode yang digunakan untuk membuat presentasi, silahkan klik `code`.  Materi berlisensi <i class="fab fa-creative-commons"></i> 1.0 (*public domain*). Materi bebas digunakan kembali tanpa ada kewajiban menyebutkan sumber aslinya.
+Materi ini adalah bagian dari Kelas Literasi yang diselenggarakan oleh Klub Seri Buku. Untuk mengunduh materi presentasi yang siap diunduh dan *readable*, klik opsi `pdf`. Untuk mengakses *slide* dalam format `html` silahkan klik `slides`. Untuk mengakses kode yang digunakan untuk membuat presentasi, silahkan klik `code`. Materi berlisensi <i class="fab fa-creative-commons"></i> 1.0 (*public domain*). Materi bebas digunakan kembali tanpa ada kewajiban menyebutkan sumber aslinya.

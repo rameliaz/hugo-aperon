@@ -1,7 +1,7 @@
 ---
 title: "Rizqy Amelia Zein"
-subtitle: "Mother. Teacher. Researcher"
-description: "I am working as an assistant professor at [Universitas Airlangga](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/), but currently on a study leave to pursue my PhD at [Ludwig Maximilians Universität München](https://www.psy.lmu.de/soz_en/team/external-phd-students/zein/index.html). I teach quantitative methods in psychology, statistics, social and personality psychology. My research projects focus on understanding how people relate to scientific and religious explanations, creating and evaluating psychological measures, and improving laypeople's trust in science."
+subtitle: ""
+description: "I am a social psychology PhD student at [Ludwig-Maximilians-Universität München](https://www.lmu.de/psy/de/personen/kontaktseite/rizqy-amelia-zein-c6eb5d9f.html). Previously, I worked as an assistant professor at [Universitas Airlangga](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/), teaching quantitative methods in psychology, statistics, social and personality psychology. My research projects focus on understanding how people relate to scientific and religious explanations, creating and evaluating psychological measures, and improving laypeople's trust in science."
 images:
   - img/avatar.jpg
 image_left: true
@@ -14,5 +14,4 @@ action_type: text # text, button
 type: home
 ---
 
-** index doesn't contain a body, just front matter above.
-See index.html in the layouts folder **
+\*\* index doesn't contain a body, just front matter above. See index.html in the layouts folder \*\*

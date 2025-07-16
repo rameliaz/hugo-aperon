@@ -1,8 +1,8 @@
 ---
 title: Contact
 name: Contact Us Form
-description: "Please fill the form to reach out. <br><br> **For UNAIR Students:** If you'd like to arrange an appointment, please request it through [my booking page](https://calendly.com/ameliazein/calendar). <br><br> Please note that I'm on study leave until 2025 (expected), so I'm no longer available for teaching or undergraduate thesis supervision."
-date: 2024-02-22T15:56
+description: "Please fill the form to reach out. <br><br> **For UNAIR Students:** If you'd like to arrange an appointment, please let me know through [my booking page](https://calendar.notion.so/meet/rizqyameliazein/30m). <br><br> Please note that I'm no longer available for teaching or undergraduate thesis supervision."
+date: 2025-05-14T15:56
 draft: false
 url: contact
 type: form

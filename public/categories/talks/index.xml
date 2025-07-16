@@ -6,8 +6,22 @@
     <description>Recent content in Talks on Rizqy Amelia Zein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Jul 2023 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 10:00:00 +0000</lastBuildDate>
     <atom:link href="/categories/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can Science and Religion Coexist?</title>
+      <link>/talk/2025-ivs/</link>
+      <pubDate>Tue, 24 Jun 2025 10:00:00 +0000</pubDate>
+      <guid>/talk/2025-ivs/</guid>
+      <description>On Friday, 4 July 2025, I presented the same topic at Laboratorium Psikologi Politik (Labpsipol) Universitas Indonesia (UI)&amp;rsquo;s brown bag meeting.&#xA;Presentation was prepared using Quarto - codes are available on repository.&#xA;Material is licensed as . Material may be reused but users must retain its original content.</description>
+    </item>
+    <item>
+      <title>Mengenal Cara Kerja Paper Mill</title>
+      <link>/talk/2024-brin/</link>
+      <pubDate>Tue, 08 Oct 2024 08:00:00 +0000</pubDate>
+      <guid>/talk/2024-brin/</guid>
+      <description>Materi berlisensi . Materi bisa dipergunakan kembali tetapi harus mempertahankan isi aslinya.</description>
+    </item>
     <item>
       <title>Komunikasi Kesarjanaan dalam Bidang Sosial-Humaniora</title>
       <link>/talk/2023-ppij/</link>
@@ -35,13 +49,6 @@
       <pubDate>Wed, 14 Sep 2022 13:00:00 +0000</pubDate>
       <guid>/talk/2022-uhamka/</guid>
       <description>Materi berlisensi 1.0 (public domain). Materi bebas digunakan kembali tanpa ada kewajiban menyebutkan sumber aslinya.</description>
-    </item>
-    <item>
-      <title>Vaksin COVID-19 di Indonesia</title>
-      <link>/talk/2020-cfa/</link>
-      <pubDate>Sat, 08 Aug 2020 09:00:00 +0000</pubDate>
-      <guid>/talk/2020-cfa/</guid>
-      <description>Materi ini adalah bagian dari workshop yang diselenggarakan oleh Society of Indonesian Science Journalists (SISJ) dan Akademi Ilmuwan Muda Indonesia (ALMI). Untuk mengakses slide dalam format html silahkan klik download slides. Untuk mengakses kode yang digunakan untuk membuat presentasi, silahkan klik code. Materi berlisensi 1.0 (public domain). Materi bebas digunakan kembali tanpa ada kewajiban menyebutkan sumber aslinya.</description>
     </item>
     <item>
       <title>Vaksin COVID-19 di Indonesia</title>

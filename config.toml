@@ -28,9 +28,9 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "Universitas Airlangga"
+  orgName = "Ludwig-Maximilians-Universität München"
   orgLocal = ""
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  description = ""
   favicon = "/img/book.ico"
   logo = "/img/zuhause.png"
   mainSections = ["blog", "project", "talk"]
@@ -67,7 +67,8 @@ enableEmoji = true
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
   headingFontFamily = "sans-serif"
-
+  
+  
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
     use_utterances = true
@@ -90,13 +91,17 @@ enableEmoji = true
       icon_pack = "ai"
       url       = "https://scholar.google.com/citations?user=0lWYoUIAAAAJ&hl=id"
   [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
+      icon      = "github"
       icon_pack = "fab"
       url       = "https://github.com/rameliaz"
+  [[params.social]]
+      icon      = "bluesky"
+      icon_pack = "fab"
+      url       = "https://bsky.app/profile/ameliazein.bsky.social"
   [[params.social]]      
       icon      = "envelope"
       icon_pack = "far"
-      url       = "mailto:Amelia.Zein@psy.lmu.de"
+      url       = "mailto:ameliazein@gmail.com"
   [[params.social]]
       icon      = "cv"
       icon_pack = "ai"
@@ -104,7 +109,11 @@ enableEmoji = true
   [[params.social]]
       icon      = "calendar-check"
       icon_pack = "far"
-      url       = "https://calendly.com/ameliazein/calendar"
+      url       = "https://calendar.notion.so/meet/rizqyameliazein/30m"
+    [[params.social]]
+      icon      = "linkedin"
+      icon_pack = "fab"
+      url       = "https://linkedin.com/in/amelia-z-124849327"
 
 [taxonomies]
   category = "categories"
