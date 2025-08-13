@@ -44,7 +44,7 @@ enableEmoji = true
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = ""
-  
+
   # use a built-in color theme
   # one of: earth / forest / grayscale / magma / paper / peach / plum /
   #         poppy / primer / sky / violet / water 
@@ -114,6 +114,10 @@ enableEmoji = true
       icon      = "linkedin"
       icon_pack = "fab"
       url       = "https://linkedin.com/in/amelia-z-124849327"
+    [[params.social]]
+      icon      = "discord"
+      icon_pack = "fab"
+      url       = "https://discord.gg/W3sPDthd"
 
 [taxonomies]
   category = "categories"
@@ -124,24 +128,29 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "Blog"
-    title = "Blog"
+    title = "My random thoughts"
     url = "https://medium.com/@ameliazein"
     weight = 1
   [[menu.header]]
     name = "Talks"
-    title = "Talks"
+    title = "All invited talks are here"
     url = "/talk/"
     weight = 2
   [[menu.header]]
     name = "CV"
-    title = "CV"
+    title = "Full academic CV"
     url = "/files/cv.pdf"
     weight = 3  
+  [[menu.header]]
+    name = "Tutorial"
+    title = "See all tutorials I made"
+    url = "https://rameliaz.github.io/tutorial/"
+    weight = 4
   [[menu.header]]
     name = "Contact"
     title = "How to reach me"
     url = "/contact/"
-    weight = 4
+    weight = 5
 
     
   # Configure footer  
@@ -164,6 +173,7 @@ enableEmoji = true
     disable = false
     anonymizeIP = true
     respectDoNotTrack = true
+    useSessionStorage = false
   [privacy.instagram]
     disable = false
     simple = true
